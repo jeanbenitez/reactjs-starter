@@ -1,22 +1,21 @@
-Personal Site
+ ReactJS Starter
 ---
-
-Welcome.
-
-
+Source: http://andrewhfarmer.com/build-your-own-starter/
 
 Setup
 ---
-
 ```
 npm install
 ```
 
-
-
 Compile
 ---
-
 ```
-npm run compile
+npm run build:dev
+```
+
+Start server
+---
+```
+npm run serve:dev
 ```
