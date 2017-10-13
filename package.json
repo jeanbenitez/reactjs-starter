@@ -1,10 +1,9 @@
 {
-  "name": "yo",
+  "name": "reactjs-starter",
   "version": "1.0.0",
-  "description": "Personal Site",
+  "description": "Personal ReactJS Starter",
   "main": "index.js",
   "scripts": {
-    "compile": "webpack",
     "build:dev": "./node_modules/.bin/webpack --config webpack.config.js --progress --watch --verbose",
     "serve:dev": "serve --ignore node_modules www --open"
   },
